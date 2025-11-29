@@ -7,4 +7,6 @@ include_directories(.)
 include_directories(Modulo0_Fundamentos)
 
 add_executable(fundamentos_programacion_basica_cpp
-        Modulo0_Fundamentos/main_structs.cpp)
+        Modulo0_Fundamentos/main_structs.cpp
+        Modulo1_Texto/main_textos.cpp
+        Modulo1_Texto/filtro_csv.cpp)
