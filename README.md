@@ -8,7 +8,7 @@ Este material está diseñado para preparar a estudiantes de Ingeniería de Sist
 
 ---
 
-## 📂 Estructura del Plan de Estudio
+## 📂 Estructura del Plan de Estudio.
 
 El contenido está dividido en 4 módulos progresivos. Cada módulo contiene explicaciones teóricas breves y ejercicios prácticos de referencia.
 
