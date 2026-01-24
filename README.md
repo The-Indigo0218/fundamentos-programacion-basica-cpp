@@ -12,7 +12,7 @@ Este material está diseñado para preparar a estudiantes de Ingeniería de Sist
 
 El contenido está dividido en 4 módulos progresivos. Cada módulo contiene explicaciones teóricas breves y ejercicios prácticos de referencia.
 
-### 🧱 Módulo 0: Fundamentos y Estructuras en Memoria
+### 🧱 Módulo 0: Fundamentos y Estructuras en Memoria:
 *Antes de guardar datos, debemos saber cómo organizarlos en la RAM.*
 
 **Temas Clave:**
