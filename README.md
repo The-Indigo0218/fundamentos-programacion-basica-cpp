@@ -43,7 +43,7 @@ El contenido está dividido en 4 módulos progresivos. Cada módulo contiene exp
 
 ---
 
-### 💾 Módulo 2: Archivos Binarios (.dat)
+### 💾 Módulo 2: Archivos Binarios (.dat):
 *La persistencia eficiente. El corazón de los sistemas transaccionales.*
 
 **Temas Clave:**
@@ -61,7 +61,7 @@ El contenido está dividido en 4 módulos progresivos. Cada módulo contiene exp
 
 ---
 
-### 🛠️ Módulo 3: Manipulación Avanzada (CRUD)
+### 🛠️ Módulo 3: Manipulación Avanzada (CRUD):
 *Aplicación de conocimientos para el Proyecto Final.*
 
 **Temas Clave:**
