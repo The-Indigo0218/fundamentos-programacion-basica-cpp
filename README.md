@@ -27,7 +27,7 @@ El contenido está dividido en 4 módulos progresivos. Cada módulo contiene exp
 
 ---
 
-### 📄 Módulo 1: Archivos de Texto (.txt y .csv)
+### 📄 Módulo 1: Archivos de Texto (.txt y .csv);
 *La persistencia legible por humanos. Ideal para reportes e intercambio de datos.*
 
 **Temas Clave:**
