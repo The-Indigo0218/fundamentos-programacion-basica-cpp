@@ -77,7 +77,7 @@ El contenido está dividido en 4 módulos progresivos. Cada módulo contiene exp
 
 ---
 
-## 💻 Requisitos Previos
+## 💻 Requisitos Previos:
 
 Para ejecutar los ejemplos de este repositorio necesitas:
 * Compilador de C++ (G++ o MinGW).
