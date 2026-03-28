@@ -89,4 +89,4 @@ Para ejecutar los ejemplos de este repositorio necesitas:
 Este es un repositorio educativo. Si tienes una forma más eficiente de resolver un ejercicio o encuentras un error, ¡haz un Pull Request o abre un Issue!
 
 ---
-*Universidad de Cartagena - Ingeniería de Sistemas.*
+*Universidad de Cartagena - Ingeniería de Sistemas*
