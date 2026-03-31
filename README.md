@@ -84,7 +84,7 @@ Para ejecutar los ejemplos de este repositorio necesitas:
 * IDE recomendado: **Dev-C++** (Versión 5.11 o superior) o **VS Code**.
 * Conocimientos básicos de lógica de programación (ciclos, condicionales).
 
-## 🤝 Contribuciones
+## 🤝 Contribuciones:
 
 Este es un repositorio educativo. Si tienes una forma más eficiente de resolver un ejercicio o encuentras un error, ¡haz un Pull Request o abre un Issue!
 
