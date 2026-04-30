@@ -1,4 +1,4 @@
-# 🚀 Guía de Estudio: Persistencia y Estructuras de Datos en C++
+# 🚀 Guía de Estudio: Persistencia y Estructuras de Datos en C++.
 
 Bienvenido al repositorio central de estudio para **Programación II**. Este proyecto nace con el objetivo de consolidar los conocimientos necesarios para dominar el manejo de datos en C++, desde la lógica modular básica hasta la persistencia avanzada en archivos binarios.
 
